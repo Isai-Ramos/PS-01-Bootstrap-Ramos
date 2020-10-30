@@ -1,0 +1,16 @@
+.textoMenu:hover { 
+
+    color:gray; 
+    font-weight: bolder;
+    
+  } 
+
+  .textoMenu{
+    font-weight: bold;
+    color: black;
+  }
+
+  .textoMenu:active { 
+    font-weight: bolder;
+    color: gray; 
+  } 
